@@ -1,4 +1,4 @@
-# URL SCRAPER
+# Url Scraper
 url-scraper is a python script to scrape URL's from major search engines.
 
 ## Supported search engines:
