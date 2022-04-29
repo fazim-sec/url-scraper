@@ -9,9 +9,15 @@ A python script to scrape URL's from major search engines.
 + Yahoo Search
 + Duckduckgo
 
+## Requirements:
+- <code>Python</code>
+
 ## Usage:
 1. Download the script.
-2. Run command <pre>python3 scraper.py</pre>
+2. Run command 
+```plain
+python3 scraper.py
+```
 3. Choose preferred engine.
 4. Enter number of pages to scrape.
 5. Obtain result from <code>output</code> folder.
